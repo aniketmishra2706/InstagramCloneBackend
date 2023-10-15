@@ -395,4 +395,4 @@ We would like to express our gratitude to the Spring Boot and Java communities f
 <!-- Contact -->
 ## Contact
 
-For questions or feedback, please contact [Manisha Biswal](mailto:manishabiswal0227@gmail.com).
+For questions or feedback, please contact [Aniket Mishra](aniketmishra2728@gmail.com).
